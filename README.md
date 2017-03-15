@@ -4,15 +4,15 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
-	* for loop
+	* for loop:
 		A for loop is set with a counter variable in the first part of the code. It will run until the second part of the code is false, updating the counter with the third part of the code.
-	* && || !
+	* && || !:
 		These are logic operators. All the ands must be true, one of the ors must be true for the overall statement to be true. The T/F value is the opposite with the ! operator.
-	* Array
+	* Array:
 	An array is an object with other objects inside of it that can be accessed and traversed, as well as have specific objects be removed and change. Each object has an index from 0...array.length (exlusive).
-	* git
+	* git:
 		Giit is a decentralized version control system used to keep track of versions of software and allow for multiple people to work on the same software simultaneously, in an organized fashion.
-	* GitHub
+	* GitHub:
 		GitHub is a web-companion to git that allows for forking of projects to create a new repository. Pull requests can be made to master repositories to allow for changes.
 
 
